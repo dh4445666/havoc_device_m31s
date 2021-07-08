@@ -1,3 +1,3 @@
-# havoc_device_m30sdd
+# havoc_device_m31sdd
 
-Havoc device Tree of M30s inspired from work of @santhosh6194 and @kraken25
+Havoc device Tree of M31S port of m30s
